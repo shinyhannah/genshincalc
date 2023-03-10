@@ -1,0 +1,270 @@
+{
+    "Albedo" : {
+        "Ascension" : ["Mora", "Basalt Pillar", "Prithiva Topaz Sliver", "Prithiva Topaz Fragment", "Prithiva Topaz Chunk", "Prithiva Topaz Gemstone", "Cecilia", "Divining Scroll", "Sealed Scroll", "Forbidden Curse Scroll"],
+        "Talents" : ["Mora", "Divining Scroll", "Sealed Scroll", "Forbidden Curse Scroll", "Teachings of Ballad", "Guide to Ballad", "Philosophies of Ballad", "Tusk of Monoceros Caeli", "Crown of Insight"]
+    },
+    "Alhaitham" : {
+        "Ascension" : ["Mora", "Pseudo-Stamens", "Nagadus Emerald Sliver", "Nagadus Emerald Fragment", "Nagadus Emerald Chunk", "Nagadus Emerald Gemstone", "Sand Grease Pupa", "Faded Red Satin", "Trimmed Red Silk", "Rich Red Brocade"],
+        "Talents" : ["Mora", "Faded Red Satin", "Trimmed Red Silk", "Rich Red Brocade", "Teachings of Ingenuity", "Guide to Ingenuity", "Philosophies of Ingenuity", "Mirror of Mushin", "Crown of Insight"]
+    },
+    "Aloy" : {
+        "Ascension" : ["Mora", "Crystalline Bloom", "Shivada Jade Sliver", "Shivada Jade Fragment", "Shivada Jade Chunk", "Shivada Jade Gemstone", "Crystal Marrow", "Spectral Husk", "Spectral Heart", "Spectral Nucleus"],
+        "Talents" : ["Mora", "Spectral Husk", "Spectral Heart", "Spectral Nucleus", "Teachings of Freedom", "Guide to Freedom", "Philosophies of Freedom", "Molten Moment", "Crown of Insight"]
+    },
+    "Amber" : {
+        "Ascension" : ["Mora", "Everflame Seed", "Agnidus Agate Sliver", "Agnidus Agate Fragment", "Agnidus Agate Chunk", "Agnidus Agate Gemstone", "Small Lamp Grass", "Firm Arrowhead", "Sharp Arrowhead", "Weathered Arrowhead"],
+        "Talents" : ["Mora", "Firm Arrowhead", "Sharp Arrowhead", "Weathered Arrowhead", "Teachings of Freedom", "Guide to Freedom", "Philosophies of Freedom", "Dvalin's Sigh", "Crown of Insight"]
+    },
+    "Anemo Traveler" : {
+        "Ascension" : ["Mora", "Brilliant Diamond Sliver", "Brilliant Diamond Fragment", "Brilliant Diamond Chunk", "Brilliant Diamond Gemstone", "Windwheel Aster", "Damaged Mask", "Stained Mask", "Ominous Mask"],
+        "Talents" : ["Mora", "Divining Scroll", "Sealed Scroll", "Forbidden Curse Scroll", "Teachings of Freedom", "Guide to Freedom", "Guide to Resistance", "Guide to Ballad", "Philosophies of Freedom", "Philosophies of Resistance", "Philosophies of Ballad", "Dvalin's Sigh", "Crown of Insight"]
+    },
+    "Arataki Itto" : {
+        "Ascension" : ["Mora", "Riftborn Regalia", "Prithiva Topaz Sliver", "Prithiva Topaz Fragment", "Prithiva Topaz Chunk", "Prithiva Topaz Gemstone", "Onikabuto", "Slime Condensate", "Slime Secretions", "Slime Concentrate"],
+        "Talents" : ["Mora", "Slime Condensate", "Slime Secretions", "Slime Concentrate", "Teachings of Elegance", "Guide to Elegance", "Philosophies of Elegance", "Ashen Heart", "Crown of Insight"]
+    },
+    "Barbara" : {
+        "Ascension" : ["Mora", "Cleansing Heart", "Varunada Lazurite Sliver", "Varunada Lazurite Fragment", "Varunada Lazurite Chunk", "Varunada Lazurite Gemstone", "Philanemo Mushroom", "Divining Scroll", "Sealed Scroll", "Forbidden Curse Scroll"],
+        "Talents" : ["Mora", "Divining Scroll", "Sealed Scroll", "Forbidden Curse Scroll", "Teachings of Freedom", "Guide to Freedom", "Philosophies of Freedom", "Ring of Boreas", "Crown of Insight"]
+    },
+    "Beidou" : {
+        "Ascension" : ["Mora", "Lightning Prism", "Vajrada Amethyst Sliver", "Vajrada Amethyst Fragment", "Vajrada Amethyst Chunk", "Vajrada Amethyst Gemstone", "Noctilucous Jade", "Treasure Hoarder Insignia", "Silver Raven Insignia", "Golden Raven Insignia"],
+        "Talents" : ["Mora", "Treasure Hoarder Insignia", "Silver Raven Insignia", "Golden Raven Insignia", "Teachings of Gold", "Guide to Gold", "Philosophies of Gold", "Dvalin's Sigh", "Crown of Insight"]
+    },
+    "Bennett" : {
+        "Ascension" : ["Mora", "Everflame Seed", "Agnidus Agate Sliver", "Agnidus Agate Fragment", "Agnidus Agate Chunk", "Agnidus Agate Gemstone", "Windwheel Aster", "Treasure Hoarder Insignia", "Silver Raven Insignia", "Golden Raven Insignia"],
+        "Talents" : ["Mora", "Treasure Hoarder Insignia", "Silver Raven Insignia", "Golden Raven Insignia", "Teachings of Resistance", "Guide to Resistance", "Philosophies of Resistance", "Dvalin's Plume", "Crown of Insight"]
+    },
+    "Candace" : {
+        "Ascension" : ["Mora", "Light Guilding Tetrahedron", "Varunada Lazurite Sliver", "Varunada Lazurite Fragment", "Varunada Lazurite Chunk", "Varunada Lazurite Gemstone", "Henna Berry", "Faded Red Satin", "Trimmed Red Silk", "Rich Red Brocade"],
+        "Talents" : ["Mora", "Faded Red Satin", "Trimmed Red Silk", "Rich Red Brocade", "Teachings of Admonition", "Guide to Admonition", "Philosophies of Admonition", "Tears of the Calamitous God", "Crown of Insight"]
+    },
+    "Chongyun" : {
+        "Ascension" : ["Mora", "Hoarfrost Core", "Shivada Jade Sliver", "Shivada Jade Fragment", "Shivada Jade Chunk", "Shivada Jade Gemstone", "Cor Lapis", "Damaged Mask", "Stained Mask", "Ominous Mask"],
+        "Talents" : ["Mora", "Damaged Mask", "Stained Mask", "Ominous Mask", "Teachings of Diligence", "Guide to Diligence", "Philosophies of Diligence", "Dvalin's Sigh", "Crown of Insight"]
+    },
+    "Collei" : {
+        "Ascension" : ["Mora", "Majestic Hooked Beak", "Nagadus Emerald Sliver", "Nagadus Emerald Fragment", "Nagadus Emerald Chunk", "Nagadus Emerald Gemstone", "Rukkhashava Mushrooms", "Firm Arrowhead", "Sharp Arrowhead", "Weathered Arrowhead"],
+        "Talents" : ["Mora", "Firm Arrowhead", "Sharp Arrowhead", "Weathered Arrowhead", "Teachings of Praxis", "Guide to Praxis", "Philosophies of Praxis", "Tears of the Calamitous God", "Crown of Insight"]
+    },
+    "Cyno" : {
+        "Ascension" : ["Mora", "Thunderclap Fruitcore", "Vajrada Amethyst Sliver", "Vajrada Amethyst Fragment", "Vajrada Amethyst Chunk", "Vajrada Amethyst Gemstone", "Scarab", "Divining Scroll", "Sealed Scroll", "Forbidden Curse Scroll"],
+        "Talents" : ["Mora", "Divining Scroll", "Sealed Scroll", "Forbidden Curse Scroll", "Teachings of Admonition", "Guide to Admonition", "Philosophies of Admonition", "Mudra of the Malefic General", "Crown of Insight"]
+    },
+    "Dehya" : {
+        "Ascension" : ["Mora", "Light Guilding Tetrahedron", "Agnidus Agate Sliver", "Agnidus Agate Fragment", "Agnidus Agate Chunk", "Agnidus Agate Gemstone", "Sand Grease Pupa", "Faded Red Satin", "Trimmed Red Silk", "Rich Red Brocade"],
+        "Talents" : ["Mora", "Faded Red Satin", "Trimmed Red Silk", "Rich Red Brocade", "Teachings of Praxis", "Guide to Praxis", "Philosophies of Praxis", "Puppet Strings", "Crown of Insight"]
+    },
+    "Dendro Traveler" : {
+        "Ascension" : ["Mora", "Brilliant Diamond Sliver", "Brilliant Diamond Fragment", "Brilliant Diamond Chunk", "Brilliant Diamond Gemstone", "Windwheel Aster", "Damaged Mask", "Stained Mask", "Ominous Mask"],
+        "Talents" : ["Mora", "Fungal Spores", "Luminescent Pollen", "Crystalline Cyst Dust", "Teachings of Admonition", "Guide to Admonition", "Guide to Ingenuity", "Guide to Praxis", "Philosophies of Admonition", "Philosophies of Ingenuity", "Philosophies of Praxis", "Mudra of the Malefic General", "Crown of Insight"]
+    },
+    "Diluc" : {
+        "Ascension" : ["Mora", "Everflame Seed", "Agnidus Agate Sliver", "Agnidus Agate Fragment", "Agnidus Agate Chunk", "Agnidus Agate Gemstone", "Small Lamp Grass", "Recruit's Insignia", "Sergeant's Insignia", "Lieutenant's Insignia"],
+        "Talents" : ["Mora", "Recruit's Insignia", "Sergeant's Insignia", "Lieutenant's Insignia", "Teachings of Resistance", "Guide to Resistance", "Philosophies of Resistance", "Dvalin's Plume", "Crown of Insight"]
+    },
+    "Diona" : {
+        "Ascension" : ["Mora", "Hoarfrost Core", "Shivada Jade Sliver", "Shivada Jade Fragment", "Shivada Jade Chunk", "Shivada Jade Gemstone", "Calla Lily", "Firm Arrowhead", "Sharp Arrowhead", "Weathered Arrowhead"],
+        "Talents" : ["Mora", "Firm Arrowhead", "Sharp Arrowhead", "Weathered Arrowhead", "Teachings of Freedom", "Guide to Freedom", "Philosophies of Freedom", "Shard of a Foul Legacy", "Crown of Insight"]
+    },
+    "Dori" : {
+        "Ascension" : ["Mora", "Thunderclap Fruitcore", "Vajrada Amethyst Sliver", "Vajrada Amethyst Fragment", "Vajrada Amethyst Chunk", "Vajrada Amethyst Gemstone", "Kalpalata Lotus", "Faded Red Satin", "Trimmed Red Silk", "Rich Red Brocade"],
+        "Talents" : ["Mora", "Faded Red Satin", "Trimmed Red Silk", "Rich Red Brocade", "Teachings of Ingenuity", "Guide to Ingenuity", "Philosophies of Ingenuity", "Bloodjade Branch", "Crown of Insight"]
+    },
+    "Electro Traveler" : {
+        "Ascension" : ["Mora", "Brilliant Diamond Sliver", "Brilliant Diamond Fragment", "Brilliant Diamond Chunk", "Brilliant Diamond Gemstone", "Windwheel Aster", "Damaged Mask", "Stained Mask", "Ominous Mask"],
+        "Talents" : ["Mora", "Old Handguard", "Kageuchi Handguard", "Famed Handguard", "Teachings of Transience", "Guide to Transience", "Guide to Elegance", "Guide to Light", "Philosophies of Transience", "Philosophies of Elegance", "Philosophies of Light", "Dragon Lord's Crown", "Crown of Insight"]
+    },
+    "Eula" : {
+        "Ascension" : ["Mora", "Crystalline Bloom", "Shivada Jade Sliver", "Shivada Jade Fragment", "Shivada Jade Chunk", "Shivada Jade Gemstone", "Dandelion Seed", "Damaged Mask", "Stained Mask", "Ominous Mask"],
+        "Talents" : ["Mora", "Damaged Mask", "Stained Mask", "Ominous Mask", "Teachings of Resistance", "Guide to Resistance", "Philosophies of Resistance", "Dragon Lord's Crown", "Crown of Insight"]
+    },
+    "Faruzan" : {
+        "Ascension" : ["Mora", "Light Guilding Tetrahedron", "Vayuda Turquoise Sliver", "Vayuda Turquoise Fragment", "Vayuda Turquoise Chunk", "Vayuda Turquoise Gemstone", "Henna Berry", "Faded Red Satin", "Trimmed Red Silk", "Rich Red Brocade"],
+        "Talents" : ["Mora", "Faded Red Satin", "Trimmed Red Silk", "Rich Red Brocade", "Teachings of Admonition", "Guide to Admonition", "Philosophies of Admonition", "Puppet Strings", "Crown of Insight"]
+    },
+    "Fischl" : {
+        "Ascension" : ["Mora", "Lightning Prism", "Vajrada Amethyst Sliver", "Vajrada Amethyst Fragment", "Vajrada Amethyst Chunk", "Vajrada Amethyst Gemstone", "Small Lamp Grass", "Firm Arrowhead", "Sharp Arrowhead", "Weathered Arrowhead"],
+        "Talents" : ["Mora", "Firm Arrowhead", "Sharp Arrowhead", "Weathered Arrowhead", "Teachings of Ballad", "Guide to Ballad", "Philosophies of Ballad", "Spirit Locket of Boreas", "Crown of Insight"]
+    },
+    "Ganyu" : {
+        "Ascension" : ["Mora", "Hoarfrost Core", "Shivada Jade Sliver", "Shivada Jade Fragment", "Shivada Jade Chunk", "Shivada Jade Gemstone", "Qingxin", "Whopperflower Nectar", "Shimmering Nectar", "Energy Nectar"],
+        "Talents" : ["Mora", "Whopperflower Nectar", "Shimmering Nectar", "Energy Nectar", "Teachings of Diligence", "Guide to Diligence", "Philosophies of Diligence", "Shadow of the Warrior", "Crown of Insight"]
+    },
+    "Geo Traveler" : {
+        "Ascension" : ["Mora", "Brilliant Diamond Sliver", "Brilliant Diamond Fragment", "Brilliant Diamond Chunk", "Brilliant Diamond Gemstone", "Windwheel Aster", "Damaged Mask", "Stained Mask", "Ominous Mask"],
+        "Talents" : ["Mora", "Firm Arrowhead", "Sharp Arrowhead", "Weathered Arrowhead", "Teachings of Prosperity", "Guide to Prosperity", "Guide to Diligence", "Guide to Gold", "Philosophies of Prosperity", "Philosophies of Diligence", "Philosophies of Gold", "Tail of Boreas", "Crown of Insight"]
+    },
+    "Gorou" : {
+        "Ascension" : ["Mora", "Perpetual Heart", "Prithiva Topaz Sliver", "Prithiva Topaz Fragment", "Prithiva Topaz Chunk", "Prithiva Topaz Gemstone", "Sango Pearl", "Spectral Husk", "Spectral Heart", "Spectral Nucleus"],
+        "Talents" : ["Mora", "Spectral Husk", "Spectral Heart", "Spectral Nucleus", "Teachings of Light", "Guide to Light", "Philosophies of Light", "Molten Moment", "Crown of Insight"]
+    },
+    "Hu Tao" : {
+        "Ascension" : ["Mora", "Juvenile Jade", "Agnidus Agate Sliver", "Agnidus Agate Fragment", "Agnidus Agate Chunk", "Agnidus Agate Gemstone", "Silk Flower", "Whopperflower Nectar", "Shimmering Nectar", "Energy Nectar"],
+        "Talents" : ["Mora", "Whopperflower Nectar", "Shimmering Nectar", "Energy Nectar", "Teachings of Diligence", "Guide to Diligence", "Philosophies of Diligence", "Shard of a Foul Legacy", "Crown of Insight"]
+    },
+    "Jean" : {
+        "Ascension" : ["Mora", "Hurricane Seed", "Vayuda Turquoise Sliver", "Vayuda Turquoise Fragment", "Vayuda Turquoise Chunk", "Vayuda Turquoise Gemstone", "Dandelion Seed", "Damaged Mask", "Stained Mask", "Ominous Mask"],
+        "Talents" : ["Mora", "Damaged Mask", "Stained Mask", "Ominous Mask", "Teachings of Resistance", "Guide to Resistance", "Philosophies of Resistance", "Dvalin's Plume", "Crown of Insight"]
+    },
+    "Kaedehara Kazuha" : {
+        "Ascension" : ["Mora", "Marionette Core", "Vayuda Turquoise Sliver", "Vayuda Turquoise Fragment", "Vayuda Turquoise Chunk", "Vayuda Turquoise Gemstone", "Sea Ganoderma", "Treasure Hoarder Insignia", "Silver Raven  Insignia", "Golden Raven Insignia"],
+        "Talents" : ["Mora", "Treasure Hoarder Insignia", "Silver Raven Insignia", "Golden Raven Insignia", "Teachings of Diligence", "Guide to Diligence", "Philosophies of Diligence", "Gilded Scale", "Crown of Insight"]
+    },
+    "Kaeya" : {
+        "Ascension" : ["Mora", "Hoarfrost Core", "Shivada Jade Sliver", "Shivada Jade Fragment", "Shivada Jade Chunk", "Shivada Jade Gemstone", "Calla Lily", "Treasure Hoarder Insignia", "Silver Raven Insignia", "Golden Raven Insignia"],
+        "Talents" : ["Mora", "Treasure Hoarder Insignia", "Silver Raven Insignia", "Golden Raven Insignia", "Teachings of Ballad", "Guide to Ballad", "Philosophies of Ballad", "Spirit Locket of Boreas", "Crown of Insight"]
+    },
+    "Ayaka" : {
+        "Ascension" : ["Mora", "Perpetual Heart", "Shivada Jade Sliver", "Shivada Jade Fragment", "Shivada Jade Chunk", "Shivada Jade Gemstone", "Sakura Bloom", "Old Handguard", "Kageuchi Handguard", "Famed Handguard"],
+        "Talents" : ["Mora", "Old Handguard", "Kageuchi Handguard", "Famed Handguard", "Teachings of Elegance", "Guide to Elegance", "Philosophies of Elegance", "Bloodjade Branch", "Crown of Insight"]
+    },
+    "Ayato" : {
+        "Ascension" : ["Mora", "Dew of Repudiation", "Varunada Lazurite Sliver", "Varunada Lazurite Fragment", "Varunada Lazurite Chunk", "Varunada Lazurite Gemstone", "Sakura Bloom", "Old Handguard", "Kageuchi Handguard", "Famed Handguard"],
+        "Talents" : ["Mora", "Old Handguard", "Kageuchi Handguard", "Famed Handguard", "Teachings of Elegance", "Guide to Elegance", "Philosophies of Elegance", "Mudra of the Malefic General", "Crown of Insight"]
+    },
+    "Keqing" : {
+        "Ascension" : ["Mora", "Lightning Prism", "Vajrada Amethyst Sliver", "Vajrada Amethyst Fragment", "Vajrada Amethyst Chunk", "Vajrada Amethyst Gemstone", "Cor Lapis", "Whopperflower Nectar", "Shimmering Nectar", "Energy Nectar"],
+        "Talents" : ["Mora", "Whopperflower Nectar", "Shimmering Nectar", "Energy Nectar", "Teachings of Prosperity", "Guide to Prosperity", "Philosophies of Prosperity", "Ring of Boreas", "Crown of Insight"]
+    },
+    "Klee" : {
+        "Ascension" : ["Mora", "Everflame Seed", "Agnidus Agate Sliver", "Agnidus Agate Fragment", "Agnidus Agate Chunk", "Agnidus Agate Gemstone", "Philanemo Mushroom", "Divining Scroll", "Sealed Scroll", "Forbidden Curse Scroll"],
+        "Talents" : ["Mora", "Divining Scroll", "Sealed Scroll", "Forbidden Curse Scroll", "Teachings of Freedom", "Guide to Freedom", "Philosophies of Freedom", "Ring of Boreas", "Crown of Insight"]
+    },
+    "Kujou Sara" : {
+        "Ascension" : ["Mora", "Storm Beads", "Vajrada Amethyst Sliver", "Vajrada Amethyst Fragment", "Vajrada Amethyst Chunk", "Vajrada Amethyst Gemstone", "Dendrobium", "Damaged Mask", "Stained Mask", "Ominous Mask"],
+        "Talents" : ["Mora", "Damaged Mask", "Stained Mask", "Ominous Mask", "Teachings of Elegance", "Guide to Elegance", "Philosophies of Elegance", "Ashen Heart", "Crown of Insight"]
+    },
+    "Kuki Shinobu" : {
+        "Ascension" : ["Mora", "Runic Fang", "Vajrada Amethyst Sliver", "Vajrada Amethyst Fragment", "Vajrada Amethyst Chunk", "Vajrada Amethyst Gemstone", "Naku Weed", "Spectral Husk", "Spectral Heart", "Spectral Nucleus"],
+        "Talents" : ["Mora", "Spectral Husk", "Spectral Heart", "Spectral Nucleus", "Teachings of Elegance", "Guide to Elegance", "Philosophies of Elegance", "Tears of the Calamitous God", "Crown of Insight"]
+    },
+    "Layla" : {
+        "Ascension" : ["Mora", "Perpetual Caliber", "Shivada Jade Sliver", "Shivada Jade Fragment", "Shivada Jade Chunk", "Shivada Jade Gemstone", "Niloplata Lotus", "Divining Scroll", "Sealed Scroll", "Forbidden Curse Scroll"],
+        "Talents" : ["Mora", "Divining Scroll", "Sealed Scroll", "Forbidden Curse Scroll", "Teachings of Ingenuity", "Guide to Ingenuity", "Philosophies of Ingenuity", "Mirror of Mushin", "Crown of Insight"]
+    },
+    "Lisa" : {
+        "Ascension" : ["Mora", "Lightning Prism", "Vajrada Amethyst Sliver", "Vajrada Amethyst Fragment", "Vajrada Amethyst Chunk", "Vajrada Amethyst Gemstone", "Valberry", "Slime Condensate", "Slime Secretions", "Slime Concentrate"],
+        "Talents" : ["Mora", "Slime Condensate", "Slime Secretions", "Slime Concentrate", "Teachings of Ballad", "Guide to Ballad", "Philosophies of Ballad", "Dvalin's Claw", "Crown of Insight"]
+    },
+    "Mona" : {
+        "Ascension" : ["Mora", "Cleansing Heart", "Varunada Lazurite Sliver", "Varunada Lazurite Fragment", "Varunada Lazurite Chunk", "Varunada Lazurite Gemstone", "Philanemo Mushroom", "Whopperflower Nectar", "Shimmering Nectar", "Energy Nectar"],
+        "Talents" : ["Mora", "Whopperflower Nectar", "Shimmering Nectar", "Energy Nectar", "Teachings of Resistance", "Guide to Resistance", "Philosophies of Resistance", "Ring of Boreas", "Crown of Insight"]
+    },
+    "Nahida" : {
+        "Ascension" : ["Mora", "Quelled Creeper", "Nagadus Emerald Sliver", "Nagadus Emerald Fragment", "Nagadus Emerald Chunk", "Nagadus Emerald Gemstone", "Kalpalata Lotus", "Fungal Spores", "Luminescent Pollen", "Crystalline Cyst Dust"],
+        "Talents" : ["Mora", "Fungal Spores", "Luminescent Pollen", "Crystalline Cyst Dust", "Teachings of Ingenuity", "Guide to Ingenuity", "Philosophies of Ingenuity", "Puppet Strings", "Crown of Insight"]
+    },
+    "Nilou" : {
+        "Ascension" : ["Mora", "Perpetual Caliber", "Varunada Lazurite Sliver", "Varunada Lazurite Fragment", "Varunada Lazurite Chunk", "Varunada Lazurite Gemstone", "Padisarah", "Fungal Spores", "Luminescent Pollen", "Crystalline Cyst Dust"],
+        "Talents" : ["Mora", "Fungal Spores", "Luminescent Pollen", "Crystalline Cyst Dust", "Teachings of Praxis", "Guide to Praxis", "Philosophies of Praxis", "Tears of the Calamitous God", "Crown of Insight"]
+    },
+    "Ningguang" : {
+        "Ascension" : ["Mora", "Basalt Pillar", "Prithiva Topaz Sliver", "Prithiva Topaz Fragment", "Prithiva Topaz Chunk", "Prithiva Topaz Gemstone", "Glaze Lily", "Recruit's Insignia", "Sergeant's Insignia", "Lieutenant's Insignia"],
+        "Talents" : ["Mora", "Recruit's Insignia", "Sergeant's Insignia", "Lieutenant's Insignia", "Teachings of Prosperity", "Guide to Prosperity", "Philosophies of Prosperity", "Spirit Locket of Boreas", "Crown of Insight"]
+    },
+    "Noelle" : {
+        "Ascension" : ["Mora", "Basalt Pillar", "Prithiva Topaz Sliver", "Prithiva Topaz Fragment", "Prithiva Topaz Chunk", "Prithiva Topaz Gemstone", "Valberry", "Damaged Mask", "Stained Mask", "Ominous Mask"],
+        "Talents" : ["Mora", "Damaged Mask", "Stained Mask", "Ominous Mask", "Teachings of Resistance", "Guide to Resistance", "Philosophies of Resistance", "Dvalin's Claw", "Crown of Insight"]
+    },
+    "Qiqi"  : {
+        "Ascension" : ["Mora", "Hoarfrost Core", "Shivada Jade Sliver", "Shivada Jade Fragment", "Shivada Jade Chunk", "Shivada Jade Gemstone", "Violetgrass", "Divining Scroll", "Sealed Scroll", "Forbidden Curse Scroll"],
+        "Talents" : ["Mora", "Divining Scroll", "Sealed Scroll", "Forbidden Curse Scroll", "Teachings of Prosperity", "Guide to Prosperity", "Philosophies of Prosperity", "Tail of Boreas", "Crown of Insight"]
+    },
+    "Raiden Shogun" : {
+        "Ascension" : ["Mora", "Storm Beads", "Vajrada Amethyst Sliver", "Vajrada Amethyst Fragment", "Vajrada Amethyst Chunk", "Vajrada Amethyst Gemstone", "Amakumo Fruit", "Old Handguard", "Kageuchi Handguard", "Famed Handguard"],
+        "Talents" : ["Mora", "Old Handguard", "Kageuchi Handguard", "Famed Handguard", "Teachings of Light", "Guide to Light", "Philosophies of Light", "Molten Moment", "Crown of Insight"]
+    },
+    "Razor" : {
+        "Ascension" : ["Mora", "Lightning Prism", "Vajrada Amethyst Sliver", "Vajrada Amethyst Fragment", "Vajrada Amethyst Chunk", "Vajrada Amethyst Gemstone", "Wolfhook", "Damaged Mask", "Stained Mask", "Ominous Mask"],
+        "Talents" : ["Mora", "Damaged Mask", "Stained Mask", "Ominous Mask", "Teachings of Resistance", "Guide to Resistance", "Philosophies of Resistance", "Dvalin's Claw", "Crown of Insight"]
+    },
+    "Rosaria" : {
+        "Ascension" : ["Mora", "Hoarfrost Core", "Shivada Jade Sliver", "Shivada Jade Fragment", "Shivada Jade Chunk", "Shivada Jade Gemstone", "Valberry", "Recruit's Insignia", "Sergeant's Insignia", "Lieutenant's Insignia"],
+        "Talents" : ["Mora", "Recruit's Insignia", "Sergeant's Insignia", "Lieutenant's Insignia", "Teachings of Ballad", "Guide to Ballad", "Philosophies of Ballad", "Shadow of the Warrior", "Crown of Insight"]
+    },
+    "Sangonomiya Kokomi" : {
+        "Ascension" : ["Mora", "Dew of Repudiation", "Varunada Lazurite Sliver", "Varunada Lazurite Fragment", "Varunada Lazurite Chunk", "Varunada Lazurite Gemstone", "Sango Pearl", "Spectral Husk", "Spectral Heart", "Spectral Nucleus"],
+        "Talents" : ["Mora", "Spectral Husk", "Spectral Heart", "Spectral Nucleus", "Teachings of Transience", "Guide to Transience", "Philosophies of Transience", "Hellfire Butterfly", "Crown of Insight"]
+    },
+    "Sayu" : {
+        "Ascension" : ["Mora", "Marionette Core", "Vayuda Turquoise Sliver", "Vayuda Turquoise Fragment", "Vayuda Turquoise Chunk", "Vayuda Turquoise Gemstone", "Crystal Marrow", "Whopperflower Nectar", "Shimmering Nectar", "Energy Nectar"],
+        "Talents" : ["Mora", "Whopperflower Nectar", "Shimmering Nectar", "Energy Nectar", "Teachings of Light", "Guide to Light", "Philosophies of Light", "Gilded Scale", "Crown of Insight"]
+    },
+    "Shenhe" : {
+        "Ascension" : ["Mora", "Dragonheir's False Fin", "Shivada Jade Sliver", "Shivada Jade Fragment", "Shivada Jade Chunk", "Shivada Jade Gemstone", "Qingxin", "Whopperflower Nectar", "Shimmering Nectar", "Energy Nectar"],
+        "Talents" : ["Mora", "Whopperflower Nectar", "Shimmering Nectar", "Energy Nectar", "Teachings of Prosperity", "Guide to Prosperity", "Philosophies of Prosperity", "Hellfire Butterfly", "Crown of Insight"]
+    },
+    "Shikanoin Heizou" : {
+        "Ascension" : ["Mora", "Runic Fang", "Vayuda Turquoise Sliver", "Vayuda Turquoise Fragment", "Vayuda Turquoise Chunk", "Vayuda Turquoise Gemstone", "Onikabuto", "Treasure Hoarder Insignia", "Silver Raven Insignia", "Golden Raven Insignia"],
+        "Talents" : ["Mora", "Treasure Hoarder Insignia", "Silver Raven Insignia", "Golden Raven Insignia", "Teachings of Transience", "Guide to Transience", "Philosophies of Transience", "The Meaning of Aeons", "Crown of Insight"]
+    },
+    "Sucrose" : {
+        "Ascension" : ["Mora", "Hurricane Seed", "Vayuda Turquoise Sliver", "Vayuda Turquoise Fragment", "Vayuda Turquoise Chunk", "Vayuda Turquoise Gemstone", "Windwheel Aster", "Whopperflower Nectar", "Shimmering Nectar", "Energy Nectar"],
+        "Talents" : ["Mora", "Whopperflower Nectar",  "Shimmering Nectar", "Energy Nectar", "Teachings of Freedom", "Guide to Freedom", "Philosophies of Freedom", "Spirit Locket of Boreas", "Crown of Insight"]
+    },
+    "Tartaglia" : {
+        "Ascension" : ["Mora", "Cleansing Heart", "Varunada Lazurite Sliver", "Varunada Lazurite Fragment", "Varunada Lazurite Chunk", "Varunada Lazurite Gemstone", "Starconch", "Recruit's Insignia", "Sergeant's Insignia", "Lieutenant's Insignia"],
+        "Talents" : ["Mora", "Recruit's Insignia", "Sergeant's Insignia", "Lieutenant's Insignia", "Teachings of Freedom", "Guide to Freedom", "Philosophies of Freedom", "Shard of a Foul Legacy", "Crown of Insight"]
+    },
+    "Thoma" : {
+        "Ascension" : ["Mora", "Smoldering Pearl", "Agnidus Agate Sliver", "Agnidus Agate Fragment", "Agnidus Agate Chunk", "Agnidus Agate Gemstone", "Fluorescent Fungus", "Treasure Hoarder Insignia", "Silver Raven Insignia", "Golden Raven Insignia"],
+        "Talents" : ["Mora", "Treasure Hoarder Insignia", "Silver Raven Insignia", "Golden Raven Insignia", "Teachings of Transience", "Guide to Transience", "Philosophies of Transience", "Hellfire Butterfly", "Crown of Insight"]
+    },
+    "Tighnari" : {
+        "Ascension" : ["Mora", "Majestic Hooked Beak", "Nagadus Emerald Sliver", "Nagadus Emerald Fragment", "Nagadus Emerald Chunk", "Nagadus Emerald Gemstone", "Niloplata Lotus", "Fungal Spores", "Luminescent Pollen", "Crystalline Cyst Dust"],
+        "Talents" : ["Mora", "Fungal Spores", "Luminescent Pollen", "Crystalline Cyst Dust", "Teachings of Admonition", "Guide to Admonition", "Philosophies of Admonition", "The Meaning of Aeons", "Crown of Insight"]
+    },
+    "Venti" : {
+        "Ascension" : ["Mora", "Hurricane Seed", "Vayuda Turquoise Sliver", "Vayuda Turquoise Fragment", "Vayuda Turquoise Chunk", "Vayuda Turquoise Gemstone", "Cecilia", "Slime Condensate", "Slime Secretions", "Slime Concentrate"],
+        "Talents" : ["Mora", "Slime Condensate", "Slime Secretions", "Slime Concentrate", "Teachings of Ballad", "Guide to Ballad", "Philosophies of Ballad", "Tail of Boreas", "Crown of Insight"]
+    },
+    "Wanderer" : {
+        "Ascension" : ["Mora", "Perpetual Caliber", "Vayuda Turquoise Sliver", "Vayuda Turquoise Fragment", "Vayuda Turquoise Chunk", "Vayuda Turquoise Gemstone", "Rukkhashava Mushrooms", "Old Handguard", "Kageuchi Handguard", "Famed Handguard"],
+        "Talents" : ["Mora", "Old Handguard", "Kageuchi Handguard", "Famed Handguard", "Teachings of Praxis", "Guide to Praxis", "Philosophies of Praxis", "Daka's Bell", "Crown of Insight"]
+    },
+    "Xiangling" : {
+        "Ascension" : ["Mora", "Everflame Seed", "Agnidus Agate Sliver", "Agnidus Agate Fragment", "Agnidus Agate Chunk", "Agnidus Agate Gemstone", "Jueyun Chili", "Slime Condensate", "Slime Secretions", "Slime Concentrate"],
+        "Talents" : ["Mora", "Slime Condensate", "Slime Secretions", "Slime Concentrate", "Teachings of Diligence", "Guide to Diligence", "Philosophies of Diligence", "Dvalin's Claw", "Crown of Insight"]
+    },
+    "Xiao" : {
+        "Ascension" : ["Mora", "Juvenile Jade", "Vayuda Turquoise Sliver", "Vayuda Turquoise Fragment", "Vayuda Turquoise Chunk", "Vayuda Turquoise Gemstone", "Qingxin", "Slime Condensate", "Slime Secretions", "Slime Concentrate"],
+        "Talents" : ["Mora", "Slime Condensate", "Slime Secretions", "Slime Concentrate", "Teachings of Prosperity", "Guide to Prosperity", "Philosophies of Prosperity", "Shadow of the Warrior", "Crown of Insight"]
+    },
+    "Xingqiu" : {
+        "Ascension" : ["Mora", "Cleansing Heart", "Varunada Lazurite Sliver", "Varunada Lazurite Fragment", "Varunada Lazurite Chunk", "Varunada Lazurite Gemstone", "Silk Flower", "Damaged Mask", "Stained Mask", "Ominous Mask"],
+        "Talents" : ["Mora", "Damaged Mask", "Stained Mask", "Ominous Mask", "Teachings of Gold", "Guide to Gold", "Philosophies of Gold", "Tail of Boreas", "Crown of Insight"]
+    },
+    "Xinyan" : {
+        "Ascension" : ["Mora", "Everflame Seed", "Agnidus Agate Sliver", "Agnidus Agate Fragment", "Agnidus Agate Chunk", "Agnidus Agate Gemstone", "Violetgrass", "Treasure Hoarder Insignia", "Silver Raven Insignia", "Golden Raven Insignia"],
+        "Talents" : ["Mora", "Treasure Hoarder Insignia", "Silver Raven Insignia", "Golden Raven Insignia", "Teachings of Gold", "Guide to Gold", "Philosophies of Gold", "Tusk of Monoceros Caeli", "Crown of Insight"]
+    },
+    "Yae Miko" : {
+        "Ascension" : ["Mora", "Dragonheir's False Fin", "Vajrada Amethyst Sliver", "Vajrada Amethyst Fragment", "Vajrada Amethyst Chunk", "Vajrada Amethyst Gemstone", "Sea Ganoderma", "Old Handguard", "Kageuchi Handguard", "Famed Handguard"],
+        "Talents" : ["Mora", "Old Handguard", "Kageuchi Handguard", "Famed Handguard", "Teachings of Light", "Guide to Light", "Philosophies of Light", "The Meaning of Aeons", "Crown of Insight"]
+    },
+    "Yanfei" : {
+        "Ascension" : ["Mora", "Juvenile Jade", "Agnidus Agate Sliver", "Agnidus Agate Fragment", "Agnidus Agate Chunk", "Agnidus Agate Gemstone", "Noctilucous Jade", "Treasure Hoarder Insignia", "Silver Raven Insignia", "Golden Raven Insignia"],
+        "Talents" : ["Mora", "Treasure Hoarder Insignia", "Silver Raven Insignia", "Golden Raven Insignia", "Teachings of Gold", "Guide to Gold", "Philosophies of Gold", "Bloodjade Branch", "Crown of Insight"]
+    },
+    "Yaoyao" : {
+        "Ascension" : ["Mora", "Quelled Creeper", "Nagadus Emerald Sliver", "Nagadus Emerald Fragment", "Nagadus Emerald Chunk", "Nagadus Emerald Gemstone", "Jueyun Chili", "Slime Condensate", "Slime Secretions", "Slime Concentrate"],
+        "Talents" : ["Mora", "Slime Condensate", "Slime Secretions", "Slime Concentrate", "Teachings of Diligence", "Guide to Diligence", "Philosophies of Diligence", "Daka's Bell", "Crown of Insight"]
+    },
+    "Yelan" : {
+        "Ascension" : ["Mora", "Runic Fang", "Varunada Lazurite Sliver", "Varunada Lazurite Fragment", "Varunada Lazurite Chunk", "Varunada Lazurite Gemstone", "Starconch", "Recruit's Insignia", "Sergeant's Insignia", "Lieutenant's Insignia"],
+        "Talents" : ["Mora", "Recruit's Insignia", "Sergeant's Insignia", "Lieutenant's Insignia", "Teachings of Prosperity", "Guide to Prosperity", "Philosophies of Prosperity", "Gilded Scale", "Crown of Insight"]
+    },
+    "Yoimiya" : {
+        "Ascension" : ["Mora", "Smoldering Pearl", "Agnidus Agate Sliver", "Agnidus Agate Fragment", "Agnidus Agate Chunk", "Agnidus Agate Gemstone", "Naku Weed", "Divining Scroll", "Sealed Scroll", "Forbidden Curse Scroll"],
+        "Talents" : ["Mora", "Divining Scroll", "Sealed Scroll", "Forbidden Curse Scroll", "Teachings of Transience", "Guide to Transience", "Philosophies of Transience", "Dragon Lord's Crown", "Crown of Insight"]
+    },
+    "Yun Jin" : {
+        "Ascension" : ["Mora", "Riftborn Regalia", "Prithiva Topaz Sliver", "Prithiva Topaz Fragment", "Prithiva Topaz Chunk", "Prithiva Topaz Gemstone", "Glaze Lily", "Damaged Mask", "Stained Mask", "Ominous Mask"],
+        "Talents" : ["Mora", "Damaged Mask", "Stained Mask", "Ominous Mask", "Teachings of Diligence", "Guide to Diligence", "Philosophies of Diligence", "Ashen Heart", "Crown of Insight"]
+    },
+    "Zhongli" : {
+        "Ascension" : ["Mora", "Basalt Pillar", "Prithiva Topaz Sliver", "Prithiva Topaz Fragment", "Prithiva Topaz Chunk", "Prithiva Topaz Gemstone", "Cor Lapis", "Slime Condensate", "Slime Secretions", "Slime Concentrate"],
+        "Talents" : ["Mora", "Slime Condensate", "Slime Secretions", "Slime Concentrate", "Teachings of Gold", "Guide to Gold", "Philosophies of Gold", "Tusk of Monoceros Caeli", "Crown of Insight"]
+    }
+}
